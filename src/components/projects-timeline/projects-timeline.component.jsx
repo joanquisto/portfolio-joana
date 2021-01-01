@@ -5,7 +5,7 @@ import { Timeline, Events, UrlButton, ImageEvent } from "@merc/react-timeline";
 import L_ReactToDoList from "../../assets/img/projects/React_ToDo_List.webp";
 import L_MernTipCalc from "../../assets/img/projects/mern_tip_calc.webp";
 import L_GetGitHubInfo from "../../assets/img/projects/get_github_info.webp";
-import L_SmartBrain from "../../assets/img/projects/brain.webp";
+import L_SmartBrain from "../../assets/img/projects/brain.png";
 import Accordion from "react-bootstrap/Accordion";
 import Card from "react-bootstrap/Card";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
@@ -350,7 +350,7 @@ const TimeLine = () => {
           <ImageEvent
             date="21/01/2020"
             className="text-center"
-            text="React Booking System"
+            text="Expense Tracker App"
             src={L_SmartBrain}
             alt=""
           >
@@ -431,7 +431,7 @@ const TimeLine = () => {
               <div >
                 
                 <UrlButton
-                  href="https://joanaq.canonigo.gitlab.io/capstone-1new/#main"
+                  href="https://expensejctracker.herokuapp.com"
                   target="_blank"
                 >
                   VIEW PAGE

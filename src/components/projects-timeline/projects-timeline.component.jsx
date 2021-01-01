@@ -52,7 +52,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> This project was created in September 2020 during our Capstone1 making as a first project with Zuitt. The purpose of this porfolio is to demonstrate my learning skills about HTML, CSS and Javascript for my potential clients. 
+                        <strong>Description:</strong> This project was created in September 2020. The purpose of this porfolio is to demonstrate my learning skills about HTML, CSS and Javascript for my potential clients who wants to have a personal or business webiste. 
                         
                         <hr />
                         <strong>Tech used:</strong>
@@ -130,7 +130,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> An Enrollment System that I had created in October 2020 during our Capstone2 project creation, This webiste will help any prestigious school to update thier system and to any one that does not have a program yet in enrolling students with the use of a software. It also gives convinience to the registrars to create, delete and edit courses realtime.  
+                        <strong>Description:</strong> An Enrollment System that I had created in October 2020. This webiste will help any prestigious school to update thier system and to any school that does not have a program yet in enrolling students with the use of a software. It also gives convinience to the registrars to create, delete and edit courses realtime.  
                         <hr />
                         <strong>Tech used:</strong>
                         <ul>
@@ -267,7 +267,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> My portfolio using React as a mini Capstone activiy with Zuitt,  for my potential client who wants to have a single page application for thier personal website.
+                        <strong>Description:</strong> My portfolio using React and Node.js for my potential client who wants to have a single page application for thier personal website.
                         <hr />
                         
                         <strong>Tech used:</strong>
@@ -368,7 +368,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> Enrollment System using React which I had created as part of our code along activity and will definetely   improve for the next couple of days.
+                        <strong>Description:</strong> Daily Expense Tracker System is an app for personal or for business use which will keep a track of Income and Expense on a day to day basics, and will give you a monthly and/or yearly report.
                        <hr />
                         
                         <strong>Tech used:</strong>

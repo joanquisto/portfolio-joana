@@ -267,7 +267,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong> My portfolio using React and Node.js for my potential client who wants to have a single page application for thier personal website.
+                        <strong>Description:</strong> My portfolio using React and Node.js for my potential clients who want to have a single page application for thier personal or business website.
                         <hr />
                         
                         <strong>Tech used:</strong>
@@ -409,20 +409,7 @@ const TimeLine = () => {
                           
                         </ul>
                           <hr />
-                          <em>
-                            <strong>SignUp/ Signin:</strong>
-                            <br />
-                            <br />
-                            You can <strong>register</strong> as new user or{" "}
-                            <strong>log in</strong> using the demo account below.
-                            <br />
-                            <br />
-                            <strong>Demo Account Details:</strong>
-                            <br />
-                            email: admin@email.com
-                            <br />
-                            password: admin123
-                          </em>
+                          
                       </Card.Body>
                     </Accordion.Collapse>
                   </Card>

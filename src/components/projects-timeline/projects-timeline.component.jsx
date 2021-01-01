@@ -373,6 +373,39 @@ const TimeLine = () => {
                         
                         <strong>Tech used:</strong>
                         <ul>
+                         <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_HTML5}
+                                alt="HTML 5"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              HTML5
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_CSS3}
+                                alt="CSS 3"
+                                rounded
+                                className="image-style m-1"
+                              ></Image>{" "}
+                              CSS3
+                            </span>
+                          </li>
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_JAVASCRIPT}
+                                alt="Javascript"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              Javascript
+                            </span>
+                          </li>
                           <li>
                             <span className="p-2">
                               <Image
@@ -406,7 +439,17 @@ const TimeLine = () => {
                               Express
                             </span>
                           </li>
-                          
+                          <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_MONGODB}
+                                alt="MongoDB"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              MongoDB
+                            </span>
+                          </li>
                         </ul>
                           <hr />
                           

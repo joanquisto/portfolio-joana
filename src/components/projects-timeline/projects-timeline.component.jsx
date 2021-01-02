@@ -327,6 +327,17 @@ const TimeLine = () => {
                               Javascript
                             </span>
                           </li>
+                           <li>
+                            <span className="p-2">
+                              <Image
+                                src={L_NODE_JS}
+                                alt="Node.js"
+                                rounded
+                                className="image-style1 m-1"
+                              ></Image>{" "}
+                              Node.js
+                            </span>
+                          </li>
                         </ul>
                       </Card.Body>
                     </Accordion.Collapse>
